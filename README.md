@@ -11,8 +11,11 @@ the generation is handled by the generator and the hedging is handled by hedger 
 Though the implementation is based on the current understanding of the topics.
 
 The entire implementation will be in three stages
-  1.Early setup (black scholes , greeks , data operations ,etc)
+
+  1.Early setup (black scholes , greeks , data operations ,etc
+  
   2.Main highlights Gnerator and Hedger
+  
   3.Testing and comparison of the performance of the Hedger
 
  The early setup consist of data loading i have used old july 2017 nifty50 min by min data for both options and asset (index)
