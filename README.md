@@ -12,7 +12,7 @@ Though the implementation is based on the current understanding of the topics.
 
 The entire implementation will be in three stages
 
-  1.Early setup (black scholes , greeks , data operations ,etc
+  1.Early setup (black scholes , greeks , data operations ,etc)
   
   2.Main highlights Gnerator and Hedger
   
@@ -27,3 +27,4 @@ The entire implementation will be in three stages
    
 As I am implementing the delta neutral strategy i have taken an option and vary my underlying asset (nifty 50) till the expiary of the option ,since nifty 50 has too many stocks inside it , it would be hard for me to model the cost function with so many stocks and their transaction cost i have made an assumption of zero transaction cost with this aspect .
 
+I have had a resource crunch for building this process this project , change the parameters of generator and the hedger for more data and desired rnn
