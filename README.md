@@ -20,6 +20,7 @@ The entire implementation will be in three stages
 
  The early setup consist of data loading i have used old july 2017 nifty50 min by min data for both options and asset (index)
  following are the data sites that i have used for the project
+ 
    :-->https://www.google.com/goto?url=CAESWwHrOzAVqtSlUU6Ms00PRTaIfiq9RVXF2G2zTBmGyj2x_AGod2rm2tXuTTxY6NtWQD7m255SQzsnXkjIH8vIkGrYhoglDBzBOypi4zeMf0WtbxqN1Jxtt4A7T-c
   
    :-->https://www.google.com/goto?url=CAESYQHrOzAVe-06iTmPHxOO7A4efxhiOcee5inX_stmBbENEsdHoE_3Vmil7qtz25GNDbpghnnOI5huMsn_QVCY2zQoFvbgc20GZ0HfzEK3UiGiBPj3CS00WYZbv5mONWqBd5Y
